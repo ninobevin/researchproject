@@ -1,0 +1,153 @@
+c:\users\gensys\documents\visual studio 2013\Projects\MergeSMS ver 3.0\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe.config
+c:\users\gensys\documents\visual studio 2013\Projects\MergeSMS ver 3.0\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe
+c:\users\gensys\documents\visual studio 2013\Projects\MergeSMS ver 3.0\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.pdb
+c:\users\gensys\documents\visual studio 2013\Projects\MergeSMS ver 3.0\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.xml
+c:\users\gensys\documents\visual studio 2013\Projects\MergeSMS ver 3.0\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Resources.resources
+c:\users\gensys\documents\visual studio 2013\Projects\MergeSMS ver 3.0\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbproj.GenerateResource.Cache
+c:\users\gensys\documents\visual studio 2013\Projects\MergeSMS ver 3.0\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.exe
+c:\users\gensys\documents\visual studio 2013\Projects\MergeSMS ver 3.0\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.xml
+c:\users\gensys\documents\visual studio 2013\Projects\MergeSMS ver 3.0\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.pdb
+C:\Users\GENsys\Documents\Visual Studio 2013\Projects\MergeSMS ver 3.0\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbprojResolveAssemblyReference.cache
+C:\Users\GENsys\Documents\Visual Studio 2013\Projects\MergeSMS ver 3.0\MergeSMS ver 3.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\GENsys\Documents\Visual Studio 2013\Projects\MergeSMS ver 3.0\MergeSMS ver 3.0\bin\Debug\System.Data.SQLite.pdb
+C:\Users\GENsys\Documents\Visual Studio 2013\Projects\MergeSMS ver 3.0\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Main.resources
+C:\Users\GENsys\Documents\Visual Studio 2013\Projects\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe.config
+C:\Users\GENsys\Documents\Visual Studio 2013\Projects\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.exe
+C:\Users\GENsys\Documents\Visual Studio 2013\Projects\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.xml
+C:\Users\GENsys\Documents\Visual Studio 2013\Projects\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.pdb
+C:\Users\GENsys\Documents\Visual Studio 2013\Projects\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe
+C:\Users\GENsys\Documents\Visual Studio 2013\Projects\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.pdb
+C:\Users\GENsys\Documents\Visual Studio 2013\Projects\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.xml
+C:\Users\GENsys\Documents\Visual Studio 2013\Projects\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\GENsys\Documents\Visual Studio 2013\Projects\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\System.Data.SQLite.pdb
+C:\Users\GENsys\Documents\Visual Studio 2013\Projects\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbprojResolveAssemblyReference.cache
+C:\Users\GENsys\Documents\Visual Studio 2013\Projects\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Main.resources
+C:\Users\GENsys\Documents\Visual Studio 2013\Projects\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Resources.resources
+C:\Users\GENsys\Documents\Visual Studio 2013\Projects\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbproj.GenerateResource.Cache
+E:\update Atienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe.config
+E:\update Atienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.exe
+E:\update Atienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.xml
+E:\update Atienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.pdb
+C:\Users\An Brother's\Desktop\SMARTPadala\update Atienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe.config
+C:\Users\An Brother's\Desktop\SMARTPadala\update Atienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.exe
+C:\Users\An Brother's\Desktop\SMARTPadala\update Atienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.xml
+C:\Users\An Brother's\Desktop\SMARTPadala\update Atienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.pdb
+C:\Users\An Brother's\Desktop\SMARTPadala\update Atienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe
+C:\Users\An Brother's\Desktop\SMARTPadala\update Atienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.pdb
+C:\Users\An Brother's\Desktop\SMARTPadala\update Atienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.xml
+C:\Users\An Brother's\Desktop\SMARTPadala\update Atienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Main.resources
+C:\Users\An Brother's\Desktop\SMARTPadala\update Atienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Resources.resources
+C:\Users\An Brother's\Desktop\SMARTPadala\update Atienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbproj.GenerateResource.Cache
+C:\Users\An Brother's\Desktop\SMARTPadala\update Atienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.frmfilter.resources
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe.config
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.exe
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.xml
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.pdb
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.pdb
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.xml
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\System.Data.SQLite.pdb
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbprojResolveAssemblyReference.cache
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.frmfilter.resources
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Main.resources
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Resources.resources
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbproj.GenerateResource.Cache
+E:\gratienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe.config
+E:\gratienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.exe
+E:\gratienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.xml
+E:\gratienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.pdb
+E:\gratienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe
+E:\gratienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.pdb
+E:\gratienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.xml
+E:\gratienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\System.Data.SQLite.dll
+E:\gratienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\bin\Debug\System.Data.SQLite.pdb
+E:\gratienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbprojResolveAssemblyReference.cache
+E:\gratienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.frmfilter.resources
+E:\gratienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Main.resources
+E:\gratienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Resources.resources
+E:\gratienza\MergeSMS ver 3.0 - prefinal\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbproj.GenerateResource.Cache
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe.config
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.exe
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.xml
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.pdb
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.pdb
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.xml
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\System.Data.SQLite.pdb
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbprojResolveAssemblyReference.cache
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.frmfilter.resources
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Main.resources
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Resources.resources
+C:\Users\GENsys\Desktop\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbproj.GenerateResource.Cache
+\\DESKTOP-H5QB00L\wamp\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe.config
+\\DESKTOP-H5QB00L\wamp\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.exe
+\\DESKTOP-H5QB00L\wamp\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.xml
+\\DESKTOP-H5QB00L\wamp\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.pdb
+\\DESKTOP-H5QB00L\wamp\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe
+\\DESKTOP-H5QB00L\wamp\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.pdb
+\\DESKTOP-H5QB00L\wamp\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.xml
+\\DESKTOP-H5QB00L\wamp\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.frmfilter.resources
+\\DESKTOP-H5QB00L\wamp\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Main.resources
+\\DESKTOP-H5QB00L\wamp\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Resources.resources
+\\DESKTOP-H5QB00L\wamp\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbproj.GenerateResource.Cache
+\\DESKTOP-H5QB00L\wamp\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbprojResolveAssemblyReference.cache
+C:\Users\GENsys\Desktop\caramoan\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe.config
+C:\Users\GENsys\Desktop\caramoan\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.exe
+C:\Users\GENsys\Desktop\caramoan\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.xml
+C:\Users\GENsys\Desktop\caramoan\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.pdb
+C:\Users\GENsys\Desktop\caramoan\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe
+C:\Users\GENsys\Desktop\caramoan\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.pdb
+C:\Users\GENsys\Desktop\caramoan\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.xml
+C:\Users\GENsys\Desktop\caramoan\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbprojResolveAssemblyReference.cache
+C:\Users\GENsys\Desktop\caramoan\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.frmfilter.resources
+C:\Users\GENsys\Desktop\caramoan\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Main.resources
+C:\Users\GENsys\Desktop\caramoan\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Resources.resources
+C:\Users\GENsys\Desktop\caramoan\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbproj.GenerateResource.Cache
+C:\Users\GENsys\Desktop\update\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe.config
+C:\Users\GENsys\Desktop\update\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.exe
+C:\Users\GENsys\Desktop\update\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.xml
+C:\Users\GENsys\Desktop\update\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.pdb
+F:\upgradecentral\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe.config
+F:\upgradecentral\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.exe
+F:\upgradecentral\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.xml
+F:\upgradecentral\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.pdb
+F:\upgradecentral\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe
+F:\upgradecentral\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.pdb
+F:\upgradecentral\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.xml
+F:\upgradecentral\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\System.Data.SQLite.dll
+F:\upgradecentral\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\System.Data.SQLite.pdb
+F:\upgradecentral\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbprojResolveAssemblyReference.cache
+F:\upgradecentral\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.frmfilter.resources
+F:\upgradecentral\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Main.resources
+F:\upgradecentral\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Resources.resources
+F:\upgradecentral\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbproj.GenerateResource.Cache
+C:\Users\Public\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe.config
+C:\Users\Public\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.exe
+C:\Users\Public\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.xml
+C:\Users\Public\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.pdb
+C:\Users\Public\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe
+C:\Users\Public\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.pdb
+C:\Users\Public\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.xml
+C:\Users\Public\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\Public\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Public\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbprojResolveAssemblyReference.cache
+C:\Users\Public\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.frmfilter.resources
+C:\Users\Public\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Main.resources
+C:\Users\Public\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Resources.resources
+C:\Users\Public\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbproj.GenerateResource.Cache
+C:\wamp\www\llyod\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe.config
+C:\wamp\www\llyod\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.exe
+C:\wamp\www\llyod\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.xml
+C:\wamp\www\llyod\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.pdb
+C:\wamp\www\llyod\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.exe
+C:\wamp\www\llyod\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.pdb
+C:\wamp\www\llyod\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\MergeSMS ver 3.0.xml
+C:\wamp\www\llyod\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\System.Data.SQLite.dll
+C:\wamp\www\llyod\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\bin\Debug\System.Data.SQLite.pdb
+C:\wamp\www\llyod\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbprojResolveAssemblyReference.cache
+C:\wamp\www\llyod\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.frmfilter.resources
+C:\wamp\www\llyod\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Main.resources
+C:\wamp\www\llyod\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS_ver_3._0.Resources.resources
+C:\wamp\www\llyod\MergeSMS ver 3.0 - prefinal - Copy\MergeSMS ver 3.0\obj\Debug\MergeSMS ver 3.0.vbproj.GenerateResource.Cache
